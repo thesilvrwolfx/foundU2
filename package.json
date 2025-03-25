@@ -9,13 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/happy-work-theme": "^1.0.0",
+    "@clerk/nextjs": "^6.12.9",
+    "antd": "^5.11.5",
+    "next": "15.2.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.2.3"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "eslint": "^9",
-    "eslint-config-next": "15.2.3",
-    "@eslint/eslintrc": "^3"
+    "eslint-config-next": "15.2.3"
   }
 }
